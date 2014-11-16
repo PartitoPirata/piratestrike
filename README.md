@@ -7,6 +7,13 @@ raccolta di script per client TTYtter http://www.floodgap.com/software/ttytter/
 
 ### HOWTO
 
+#### Autenticazione account (solo first run)
+`user@machine:~/piratestrike/$ THEDIR=$(pwd)`
+`user@machine:~/piratestrike/$ ttytter -verbose=1 -rc=$THEDIR/.ttytterrc -keyf=$THEDIR/.ttytterkey -oauthwizard`
+(seguire le istruzioni)
+
+#### Uso
+
 Impostare chiave di ricerca in tweetstorm.pl
 $track = '#socialstrike';
 
