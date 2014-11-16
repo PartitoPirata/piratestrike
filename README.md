@@ -11,7 +11,8 @@ raccolta di script per client TTYtter http://www.floodgap.com/software/ttytter/
 `user@machine:~/piratestrike/$ THEDIR=$(pwd)`
 
 `user@machine:~/piratestrike/$ ttytter -verbose=1 -rc=$THEDIR/.ttytterrc -keyf=$THEDIR/.ttytterkey -oauthwizard`
-(seguire le istruzioni)
+
+...seguire le istruzioni
 
 #### Uso
 
