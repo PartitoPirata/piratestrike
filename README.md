@@ -17,7 +17,9 @@ raccolta di script per client TTYtter http://www.floodgap.com/software/ttytter/
 #### Uso
 
 Impostare chiave di ricerca in tweetstorm.pl
-$track = '#socialstrike';
+
+`$track = '#socialstrike';`
+
 `user@machine:~/piratestrike/$ bash tweetstorm.sh`
 
 
